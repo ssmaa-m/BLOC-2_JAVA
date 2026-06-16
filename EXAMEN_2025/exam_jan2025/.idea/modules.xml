@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exam_jan2025.iml" filepath="$PROJECT_DIR$/exam_jan2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1_q1_2_3/p1_q1_2_3.iml" filepath="$PROJECT_DIR$/p1_q1_2_3/p1_q1_2_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2_q1/p2_q1.iml" filepath="$PROJECT_DIR$/p2_q1/p2_q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2_q2/p2_q2.iml" filepath="$PROJECT_DIR$/p2_q2/p2_q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2_q3/p2_q3.iml" filepath="$PROJECT_DIR$/p2_q3/p2_q3.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+.uml-class{
+  border: 1px solid black;
+}
+
+.uml-class tr {
+  border: 1px solid black;
+}
+
+.uml-class td {
+  padding: 5px 10px;
+}
+
+.uml-class tr:first-child td {
+  text-align: center;
+  font-weight: bold;
+}
+
+div.static {
+  text-decoration: underline;
+}
+
+div.abstract {
+  font-style: italic;
+}
